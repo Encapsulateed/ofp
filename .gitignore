@@ -1,0 +1,13 @@
+lab1/.bsp
+lab1/.idea
+lab1/project
+lab1/target
+lab2/.bsp
+lab2/.idea
+lab2/project
+lab2/target
+lab4/.bsp
+lab4/.idea
+lab4/project
+lab4/target
+*.sbt
